@@ -9,18 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rat9615/simple-nodejs-app.git"
+    "url": "git+https://github.com/Armor-test/simple-nodejs-app-container-vaibhav.git"
   },
   "author": "Rohan R",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rat9615/simple-nodejs-app/issues"
-  },
-  "homepage": "https://github.com/rat9615/simple-nodejs-app#readme",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.17.3",
-    "node-fetch": "^2.6.7",
+    "express": "4.17.3",
+    "node-fetch": "2.6.7",
     "nodemon": "^2.0.20",
     "request": "^2.88.2",
     "wiki-infobox-parser": "^0.1.11",
@@ -28,6 +24,14 @@
     "jquery": "3.4.1",
     "mongoose": "3.8.33",
     "underscore": "1.9.1",
-    "node-forge": "0.9.0"      
+    "node-forge": "0.9.0",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.20",
+    "axios": "0.21.1",
+    "minimist": "1.2.5",
+    "glob-parent": "5.1.1",
+    "tar": "6.1.0",
+    "path-parse": "1.0.6",
+    "semver": "7.3.5"
   }
 }
